@@ -22,7 +22,7 @@ Follow these steps to get the Campus Management System up and running:
 1. **Clone the Repository**:
    - Clone the repository using the following command:
      ```
-     https://github.com/manoj21101/UniversityManagementSystem
+     https://github.com/RajKumar-Developer/JAVA_Frontend
      ```
    - Or by downloading the Zip
 
